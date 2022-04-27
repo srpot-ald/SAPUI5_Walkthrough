@@ -1,0 +1,6 @@
+{
+    "sap.app": {
+        "id": "sap.m.tutorial.walkthrough.01",
+        "type": "application"
+    }
+}
